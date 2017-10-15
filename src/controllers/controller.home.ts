@@ -1,4 +1,4 @@
-import { IController } from "./../base/controller.interface";
+import { IController } from "base-api-firmiano";
 import { Server } from "restify";
 
 export class HomeController implements IController {
